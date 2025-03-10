@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/zizo/MLOPS/datascienceproject/mlruns/0/a5d5225812164265b0422bb515c28c16/artifacts
+end_time: 1741569369398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5d5225812164265b0422bb515c28c16
+run_name: learned-cub-208
+run_uuid: a5d5225812164265b0422bb515c28c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741569360936
+status: 3
+tags: []
+user_id: User
