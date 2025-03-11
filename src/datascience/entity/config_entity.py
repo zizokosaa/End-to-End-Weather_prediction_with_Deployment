@@ -4,9 +4,8 @@ from pathlib import Path
 @dataclass # we don't need to use self keyword
 class DataIngestionConfig:
     root_dir: Path
-    source_URL: str
+    source_URL: Path
     local_data_file: Path
-    unzip_dir: Path
 
 @dataclass
 class DataValidationConfig:
