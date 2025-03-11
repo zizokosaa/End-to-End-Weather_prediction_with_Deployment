@@ -513,3 +513,33 @@ x============x]
 [2025-03-11 03:32:41,444: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x============x]
+[2025-03-11 03:58:15,990: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 03:58:15,993: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 03:58:15,996: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-11 03:58:15,998: INFO: common: created directory at: artifacts]
+[2025-03-11 03:58:15,999: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-11 03:58:36,761: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 03:58:36,764: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 03:58:36,768: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-11 03:58:36,770: INFO: common: created directory at: artifacts]
+[2025-03-11 03:58:36,771: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-11 04:02:03,769: INFO: main: Welcome to our custom logging data science]
+[2025-03-11 04:02:03,769: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-11 04:02:03,772: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 04:02:03,773: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 04:02:03,774: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-11 04:02:03,774: INFO: common: created directory at: artifacts]
+[2025-03-11 04:02:03,775: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-11 04:02:03,785: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-03-11 04:02:03,785: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-03-11 04:02:03,785: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-03-11 04:02:03,788: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 04:02:03,788: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 04:02:03,789: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-11 04:02:03,789: INFO: common: created directory at: artifacts]
+[2025-03-11 04:02:03,791: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-11 04:02:03,820: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
