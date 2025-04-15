@@ -22,11 +22,14 @@ class DataTransformationConfig:
 @dataclass
 class ModelTrainerConfig:
     root_dir: Path
-    train_data_path: Path
-    test_data_path: Path
+    data_path: Path
     model_name: str
-    alpha: float
-    l1_ratio: float
+    sequence_length: int
+    optimizer: str
+    learning_rate: float
+    batch_size: int
+    epochs: int
+    patience: int
     target_column: str
 
 @dataclass

@@ -17,8 +17,7 @@ class DataTransformationTrainingPipeline:
                 config = ConfigurationManager()
                 data_transformation_config = config.get_data_transformation_config()
                 data_transformation = DataTransformation(config = data_transformation_config)
-                preprocessing_data = data_transformation.Preprocessing()
-                data_transformation.train_test_splitting(preprocessing_data)
+                data_transformation.Preprocessing()
             else:
                 raise Exception("Your data Schema is not valid")
         except Exception as e:
