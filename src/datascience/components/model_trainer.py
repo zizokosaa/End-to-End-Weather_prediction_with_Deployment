@@ -41,7 +41,7 @@ class ModelTrainer:
         print("Train Y shape:", train_y.shape)
         print("Test X shape:", test_x.shape)
         print("Test Y shape:", test_y.shape)
-        return train_x,train_y
+        return train_x,train_y,test_x,test_y
 
     def Creating_model(self,train_x,train_y):
         model = Sequential([
@@ -68,5 +68,3 @@ class ModelTrainer:
             validation_split=0.2,  # Use part of the training data as validation
             callbacks=[early_stopping, model_checkpoint])
 
-
-    

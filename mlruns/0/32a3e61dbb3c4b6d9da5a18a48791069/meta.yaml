@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/zizo/MLOPS/datascienceproject/mlruns/0/32a3e61dbb3c4b6d9da5a18a48791069/artifacts
+end_time: 1744748297248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32a3e61dbb3c4b6d9da5a18a48791069
+run_name: glamorous-sheep-390
+run_uuid: 32a3e61dbb3c4b6d9da5a18a48791069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744748284951
+status: 3
+tags: []
+user_id: User

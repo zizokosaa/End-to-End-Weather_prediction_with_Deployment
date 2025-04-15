@@ -2,8 +2,8 @@ from src.datascience import logger # logger is from src/__init__.py
 from src.datascience.pipeline.data_ingestion_pipeline import DataIngestionTrainingPipeline
 from src.datascience.pipeline.data_validation_pipeline import DataValidationTrainingPipeline
 from src.datascience.pipeline.data_transformation_pipeline import DataTransformationTrainingPipeline
-from src.datascience.pipeline.model_trainer_pipeline import  ModelTrainingrainingPipeline
-from src.datascience.pipeline.model_evaluation_pipeline import ModelEvaluationTrainingPipeline
+from src.datascience.pipeline.model_trainer_pipeline_and_evaluation import  ModelTrainingrainingPipeline
+
 
 
 logger.info("Welcome to our custom logging data science")
@@ -40,23 +40,13 @@ except Exception as e:
     raise e
 
 
-STAGE_NAME = "Model Trainer stage"
+STAGE_NAME = "Model Trainer & evaluating StageModel Trainer  stage"
 try:
     logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
     obj = ModelTrainingrainingPipeline()
-    obj.initiate_model_training()
+    test_x,test_y = obj.initiate_model_training()
+    obj.initiate_model_evaluating(test_x,test_y)
     logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx============x")
 except Exception as e:
     logger.exception(e)
     raise e
-
-"""
-STAGE_NAME = "Model Evaluation stage"
-try:
-    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-    obj = ModelEvaluationTrainingPipeline()
-    obj.initiate_model_evaluation()
-    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx============x")
-except Exception as e:
-    logger.exception(e)
-    raise e  """

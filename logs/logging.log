@@ -826,3 +826,405 @@ x============x]
 [2025-04-15 15:12:53,049: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
 
 x============x]
+[2025-04-15 15:36:08,376: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 15:36:08,378: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 15:36:08,379: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 15:36:08,380: INFO: common: created directory at: artifacts]
+[2025-04-15 15:36:08,382: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 19:47:57,413: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 19:47:57,416: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 19:47:57,418: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 19:47:57,419: INFO: common: created directory at: artifacts]
+[2025-04-15 19:47:57,420: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 19:48:46,968: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 19:48:46,971: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 19:48:46,973: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 19:48:46,974: INFO: common: created directory at: artifacts]
+[2025-04-15 19:48:46,975: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 19:58:56,690: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 19:58:56,693: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 19:58:56,695: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 19:58:56,696: INFO: common: created directory at: artifacts]
+[2025-04-15 19:58:56,697: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 19:59:01,261: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 20:03:00,110: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 20:03:00,111: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 20:03:00,113: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 20:03:00,114: INFO: common: created directory at: artifacts]
+[2025-04-15 20:03:00,115: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 20:03:03,443: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 20:05:47,733: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 20:05:47,735: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 20:05:47,736: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 20:05:47,737: INFO: common: created directory at: artifacts]
+[2025-04-15 20:05:47,738: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 20:05:51,653: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 20:07:57,997: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 20:07:57,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 20:07:58,001: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 20:07:58,002: INFO: common: created directory at: artifacts]
+[2025-04-15 20:07:58,003: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 20:08:01,716: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 20:11:02,345: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 20:11:02,347: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 20:11:02,349: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 20:11:02,350: INFO: common: created directory at: artifacts]
+[2025-04-15 20:11:02,351: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 20:11:05,575: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 21:44:16,198: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 21:44:16,199: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 21:44:16,208: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:16,215: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:16,221: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:16,223: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:16,223: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 21:44:16,247: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 21:44:16,247: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:44:16,247: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 21:44:16,251: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:16,252: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:16,253: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:16,254: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:16,254: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 21:44:16,337: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:44:16,338: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 21:44:16,345: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:16,347: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:16,348: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:16,348: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:16,349: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 21:44:16,726: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 21:44:16,726: INFO: data_transformation: (98446, 9)]
+[2025-04-15 21:44:16,727: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:44:16,727: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 21:44:16,727: ERROR: main: 'ModelTrainingrainingPipeline' object has no attribute 'initiate_model_training']
+Traceback (most recent call last):
+  File "F:\zizo\MLOPS\datascienceproject\main.py", line 47, in <module>
+    obj.initiate_model_training()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ModelTrainingrainingPipeline' object has no attribute 'initiate_model_training'
+[2025-04-15 21:44:47,593: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 21:44:47,593: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 21:44:47,595: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:47,596: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:47,597: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:47,597: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:47,598: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 21:44:47,602: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 21:44:47,603: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:44:47,603: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 21:44:47,605: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:47,606: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:47,607: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:47,607: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:47,607: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 21:44:47,686: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:44:47,686: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 21:44:47,689: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:47,690: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:47,691: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:47,691: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:47,692: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 21:44:48,034: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 21:44:48,035: INFO: data_transformation: (98446, 9)]
+[2025-04-15 21:44:48,035: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:44:48,036: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 21:44:48,038: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:44:48,039: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:44:48,040: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:44:48,040: INFO: common: created directory at: artifacts]
+[2025-04-15 21:44:48,041: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 21:47:57,056: ERROR: main: "'ConfigBox' object has no attribute 'elasticnet'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'ElasticNet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'ElasticNet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'ElasticNet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'ElasticNet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'elasticnet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'elasticnet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'elasticnet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\zizo\MLOPS\datascienceproject\main.py", line 47, in <module>
+    obj.initiate_model_training_and_evaluating()
+  File "F:\zizo\MLOPS\datascienceproject\src\datascience\pipeline\model_trainer_pipeline_and_evaluation.py", line 19, in initiate_model_training_and_evaluating
+    model_evaluation_config = config.get_model_evaluation_config()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\zizo\MLOPS\datascienceproject\src\datascience\config\configuration.py", line 76, in get_model_evaluation_config
+    params = self.params.ElasticNet
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'elasticnet'"
+[2025-04-15 21:48:52,509: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 21:48:52,509: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 21:48:52,512: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:48:52,513: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:48:52,514: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:48:52,514: INFO: common: created directory at: artifacts]
+[2025-04-15 21:48:52,514: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 21:48:52,519: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 21:48:52,519: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:48:52,519: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 21:48:52,521: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:48:52,522: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:48:52,523: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:48:52,523: INFO: common: created directory at: artifacts]
+[2025-04-15 21:48:52,524: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 21:48:52,594: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:48:52,595: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 21:48:52,598: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:48:52,598: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:48:52,599: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:48:52,599: INFO: common: created directory at: artifacts]
+[2025-04-15 21:48:52,600: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 21:48:52,929: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 21:48:52,929: INFO: data_transformation: (98446, 9)]
+[2025-04-15 21:48:52,930: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 21:48:52,930: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 21:48:52,932: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 21:48:52,933: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 21:48:52,934: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 21:48:52,934: INFO: common: created directory at: artifacts]
+[2025-04-15 21:48:52,935: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 21:52:20,172: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 21:52:23,811: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 21:52:35,500: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:01:18,795: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 22:01:18,795: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 22:01:18,798: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:01:18,798: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:01:18,799: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:01:18,800: INFO: common: created directory at: artifacts]
+[2025-04-15 22:01:18,800: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 22:01:18,804: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 22:01:18,805: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:01:18,805: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 22:01:18,807: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:01:18,808: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:01:18,810: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:01:18,810: INFO: common: created directory at: artifacts]
+[2025-04-15 22:01:18,810: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 22:01:18,887: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:01:18,888: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 22:01:18,890: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:01:18,891: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:01:18,892: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:01:18,893: INFO: common: created directory at: artifacts]
+[2025-04-15 22:01:18,893: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 22:01:19,262: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 22:01:19,263: INFO: data_transformation: (98446, 9)]
+[2025-04-15 22:01:19,263: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:01:19,263: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 22:01:19,265: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:01:19,266: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:01:19,267: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:01:19,267: INFO: common: created directory at: artifacts]
+[2025-04-15 22:01:19,267: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 22:04:08,027: ERROR: main: ModelTrainingrainingPipeline.initiate_model_evaluating() missing 2 required positional arguments: 'test_x' and 'test_y']
+Traceback (most recent call last):
+  File "F:\zizo\MLOPS\datascienceproject\main.py", line 48, in <module>
+    obj.initiate_model_evaluating()
+TypeError: ModelTrainingrainingPipeline.initiate_model_evaluating() missing 2 required positional arguments: 'test_x' and 'test_y'
+[2025-04-15 22:10:57,883: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 22:10:57,884: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 22:10:57,886: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:10:57,888: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:10:57,889: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:10:57,889: INFO: common: created directory at: artifacts]
+[2025-04-15 22:10:57,889: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 22:10:57,894: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 22:10:57,895: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:10:57,895: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 22:10:57,897: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:10:57,897: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:10:57,898: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:10:57,899: INFO: common: created directory at: artifacts]
+[2025-04-15 22:10:57,899: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 22:10:57,981: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:10:57,981: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 22:10:57,984: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:10:57,986: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:10:57,987: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:10:57,987: INFO: common: created directory at: artifacts]
+[2025-04-15 22:10:57,987: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 22:10:58,338: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 22:10:58,339: INFO: data_transformation: (98446, 9)]
+[2025-04-15 22:10:58,339: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:10:58,339: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 22:10:58,341: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:10:58,342: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:10:58,344: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:10:58,344: INFO: common: created directory at: artifacts]
+[2025-04-15 22:10:58,344: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 22:14:10,993: ERROR: main: ModelTrainingrainingPipeline.initiate_model_evaluating() missing 2 required positional arguments: 'test_x' and 'test_y']
+Traceback (most recent call last):
+  File "F:\zizo\MLOPS\datascienceproject\main.py", line 48, in <module>
+    obj.initiate_model_evaluating()
+TypeError: ModelTrainingrainingPipeline.initiate_model_evaluating() missing 2 required positional arguments: 'test_x' and 'test_y'
+[2025-04-15 22:15:40,031: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 22:15:40,031: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 22:15:40,034: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:15:40,035: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:15:40,036: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:15:40,036: INFO: common: created directory at: artifacts]
+[2025-04-15 22:15:40,036: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 22:15:40,041: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 22:15:40,041: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:15:40,041: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 22:15:40,044: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:15:40,045: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:15:40,046: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:15:40,047: INFO: common: created directory at: artifacts]
+[2025-04-15 22:15:40,047: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 22:15:40,116: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:15:40,117: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 22:15:40,119: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:15:40,120: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:15:40,121: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:15:40,122: INFO: common: created directory at: artifacts]
+[2025-04-15 22:15:40,122: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 22:15:40,457: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 22:15:40,457: INFO: data_transformation: (98446, 9)]
+[2025-04-15 22:15:40,457: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:15:40,458: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 22:15:40,459: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:15:40,460: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:15:40,461: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:15:40,462: INFO: common: created directory at: artifacts]
+[2025-04-15 22:15:40,462: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 22:18:04,613: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:18:04,614: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:18:04,615: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:18:04,616: INFO: common: created directory at: artifacts]
+[2025-04-15 22:18:04,616: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 22:18:08,356: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 22:18:17,252: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:31:13,785: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:31:13,787: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:31:13,789: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:31:13,790: INFO: common: created directory at: artifacts]
+[2025-04-15 22:31:13,792: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 22:31:17,907: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 22:44:07,185: INFO: main: Welcome to our custom logging data science]
+[2025-04-15 22:44:07,185: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-15 22:44:07,187: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:44:07,188: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:44:07,189: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:44:07,190: INFO: common: created directory at: artifacts]
+[2025-04-15 22:44:07,190: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-15 22:44:07,195: INFO: data_ingestion: File copied from F:\zizo\MLOPS\datascienceproject\data\Temp_dataset.csv to artifacts/data_ingestion/Temp_dataset.csv]
+[2025-04-15 22:44:07,195: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:44:07,195: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-04-15 22:44:07,197: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:44:07,198: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:44:07,199: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:44:07,200: INFO: common: created directory at: artifacts]
+[2025-04-15 22:44:07,200: INFO: common: created directory at: artifacts/data_validation]
+[2025-04-15 22:44:07,285: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:44:07,285: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-04-15 22:44:07,287: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:44:07,288: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:44:07,290: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:44:07,290: INFO: common: created directory at: artifacts]
+[2025-04-15 22:44:07,290: INFO: common: created directory at: artifacts/data_transformation]
+[2025-04-15 22:44:07,644: INFO: data_transformation: Preprocessing the data]
+[2025-04-15 22:44:07,644: INFO: data_transformation: (98446, 9)]
+[2025-04-15 22:44:07,645: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x============x]
+[2025-04-15 22:44:07,645: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage started <<<<<<]
+[2025-04-15 22:44:07,647: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:44:07,648: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:44:07,649: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:44:07,650: INFO: common: created directory at: artifacts]
+[2025-04-15 22:44:07,650: INFO: common: created directory at: artifacts/model_trainer]
+[2025-04-15 22:47:31,743: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-15 22:47:31,744: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-15 22:47:31,745: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-04-15 22:47:31,746: INFO: common: created directory at: artifacts]
+[2025-04-15 22:47:31,746: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-04-15 22:47:39,207: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-04-15 22:48:11,579: INFO: main: >>>>>> stage Model Trainer & evaluating StageModel Trainer  stage completed <<<<<<
+
+x============x]
